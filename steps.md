@@ -1,14 +1,14 @@
 # Step 0 
 
-undertand every single part of previous Calendar project (Ask TAs for help)
+#### undertand every single part of previous Calendar project (Ask TAs for help)
 
 # Step 1 
 
-watch Davis's JSON tutorial (MUST)
+#### watch Davis's JSON tutorial (MUST)
 
 # Step 2 
 
-Minimum requirement stage
+#### Minimum requirement stage
 
 (Calendar(including DST,day of week etc), time(am/pm, 12/24), sunrise/sunset, weather picture, weather statistics) 
 
@@ -28,7 +28,7 @@ Minimum requirement stage
 
 # Step 3 
 
-Additional features stage (3 additional features)
+#### Additional features stage (3 additional features)
 
 **Step 3.1 : **As a group, sit down together and decide what functionality you would add
 
@@ -46,4 +46,4 @@ Additional features stage (3 additional features)
 
 # Step 4 
 
-Go beyond. Do more stuffs.
+#### Go beyond. Do more stuffs.
