@@ -12,7 +12,7 @@
 
 (Calendar(including DST,day of week etc), time(am/pm, 12/24), sunrise/sunset, weather picture, weather statistics) 
 
-** Step 2.1 : **As a group, sit down together and breakdown the problem (study the structure)
+_Step 2.1 :_ As a group, sit down together and breakdown the problem (study the structure)
 
 **Step 2.2 : **Come up with definition of class/objects. (which class/objects should we call or create?)
 
