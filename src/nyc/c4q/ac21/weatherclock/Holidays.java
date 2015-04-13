@@ -36,4 +36,11 @@ public class Holidays {
         return holidays;
     }
 
+    public static String getNationalHoliday(Calendar date) {
+        HashMap<Calendar, String> holidays = getHolidays("National holiday");
+        if (holidays.get(date) == null)
+            return "";
+        return holidays.get(date);
+    }
+
 }

@@ -1,0 +1,281 @@
+
+			 200 , thunderstorm with light rain 
+			 201 , thunderstorm with rain 
+			 202 , thunderstorm with heavy rain 
+			 210 , light thunderstorm 
+			 211 , thunderstorm 
+			 212 , heavy thunderstorm 
+			 221 , ragged thunderstorm 
+			 230 , thunderstorm with light drizzle 
+			 231 , thunderstorm with drizzle 
+			 232 , thunderstorm with heavy drizzle 
+
+			 300 , light intensity drizzle 
+			 301 , drizzle 
+			 302 , heavy intensity drizzle 
+			 310 , light intensity drizzle rain 
+			 311 , drizzle rain 
+			 312 , heavy intensity drizzle rain 
+			 313 , shower rain and drizzle 
+			 314 , heavy shower rain and drizzle 
+			 321 , shower drizzle 
+
+
+		<tr>
+			<td> 500 </td>
+			<td> light rain </td>
+			<td> [[file:10d.png]] </td>
+		</tr>
+		<tr>
+			<td> 501 </td>
+			<td> moderate rain </td>
+			<td> [[file:10d.png]] </td>
+		</tr>
+		<tr>
+			<td> 502 </td>
+			<td> heavy intensity rain  </td>
+			<td> [[file:10d.png]] </td>
+		</tr>
+		<tr>
+			<td> 503 </td>
+			<td> very heavy rain </td>
+			<td> [[file:10d.png]] </td>
+		</tr>
+		<tr>
+			<td> 504 </td>
+			<td> extreme rain </td>
+			<td> [[file:10d.png]] </td>
+		</tr>
+		<tr>
+			<td> 511 </td>
+			<td> freezing rain </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 520 </td>
+			<td> light intensity shower rain  </td>
+			<td> [[file:09d.png]] </td>
+		</tr>
+		<tr>
+			<td> 521 </td>
+			<td> shower rain </td>
+			<td> [[file:09d.png]] </td>
+		</tr>
+		<tr>
+			<td> 522 </td>
+			<td> heavy intensity shower rain </td>
+			<td> [[file:09d.png]] </td>
+		</tr>
+		<tr>
+			<td> 531 </td>
+			<td> ragged shower rain </td>
+			<td> [[file:09d.png]] </td>
+		</tr>
+
+		<tr>
+			<td> 600 </td>
+			<td> light snow </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 601 </td>
+			<td> snow </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 602 </td>
+			<td> heavy snow </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 611 </td>
+			<td> sleet </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 612 </td>
+			<td> shower sleet </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 615 </td>
+			<td> light rain and snow </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 616 </td>
+			<td> rain and snow </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 620 </td>
+			<td> light shower snow </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 621 </td>
+			<td> shower snow </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+		<tr>
+			<td> 622 </td>
+			<td> heavy shower snow </td>
+			<td> [[file:13d.png]] </td>
+		</tr>
+
+		<tr>
+			<td> 701 </td>
+			<td> mist </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+		<tr>
+			<td> 711 </td>
+			<td> smoke </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+		<tr>
+			<td> 721 </td>
+			<td> haze </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+		<tr>
+			<td> 731 </td>
+			<td> sand, dust whirls </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+		<tr>
+			<td> 741 </td>
+			<td> fog </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+		<tr>
+			<td> 751 </td>
+			<td> sand </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+		<tr>
+			<td> 761 </td>
+			<td> dust </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+		<tr>
+			<td> 762 </td>
+			<td> volcanic ash </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+		<tr>
+			<td> 771 </td>
+			<td> squalls </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+		<tr>
+			<td> 781 </td>
+			<td> tornado </td>
+			<td> [[file:50d.png]] </td>
+		</tr>
+
+		<tr>
+			<td> 800 </td>
+			<td> clear sky </td>
+			<td> [[file:01d.png]]  [[file:01n.png]] </td>
+		</tr>
+		<tr>
+			<td> 801 </td>
+			<td> few clouds  </td>
+			<td> [[file:02d.png]]  [[file:02n.png]] </td>
+		</tr>
+		<tr>
+			<td> 802 </td>
+			<td> scattered clouds  </td>
+			<td> [[file:03d.png]]  [[file:03d.png]] </td>
+		</tr>
+		<tr>
+			<td> 803 </td>
+			<td> broken clouds  </td>
+			<td> [[file:04d.png]]  [[file:03d.png]] </td>
+		</tr>
+		<tr>
+			<td> 804 </td>
+			<td> overcast clouds  </td>
+			<td> [[file:04d.png]]  [[file:04d.png]] </td>
+		</tr>
+
+		<tr>
+			<td> 900 </td>
+			<td> tornado </td>
+		</tr>
+		<tr>
+			<td> 901 </td>
+			<td> tropical storm </td>
+		</tr>
+		<tr>
+			<td> 902 </td>
+			<td> hurricane </td>
+		</tr>
+		<tr>
+			<td> 903 </td>
+			<td> cold </td>
+		</tr>
+		<tr>
+			<td> 904 </td>
+			<td> hot </td>
+		</tr>
+		<tr>
+			<td> 905 </td>
+			<td> windy </td>
+		</tr>
+		<tr>
+			<td> 906 </td>
+			<td> hail </td>
+		</tr>
+
+
+		<tr>
+			<td>      951 </td>
+			<td> calm </td>
+		</tr>
+		<tr>
+			<td>      952 </td>
+			<td> light breeze </td>
+		</tr>
+		<tr>
+			<td>      953 </td>
+			<td> gentle breeze </td>
+		</tr>
+		<tr>
+			<td>      954 </td>
+			<td> moderate breeze </td>
+		</tr>
+		<tr>
+			<td>      955 </td>
+			<td> fresh breeze </td>
+		</tr>
+		<tr>
+			<td>      956 </td>
+			<td> strong breeze </td>
+		</tr>
+		<tr>
+			<td>      957 </td>
+			<td> high wind, near gale </td>
+		</tr>
+		<tr>
+			<td>      958 </td>
+			<td> gale </td>
+		</tr>
+		<tr>
+			<td>      959 </td>
+			<td> severe gale </td>
+		</tr>
+		<tr>
+			<td>      960 </td>
+			<td> storm </td>
+		</tr>
+		<tr>
+			<td>      961 </td>
+			<td> violent storm </td>
+		</tr>
+		<tr>
+			<td>      962 </td>
+			<td> hurricane </td>
+		</tr>
+	</table>
